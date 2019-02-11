@@ -1,3 +1,6 @@
+
+# DEPRECATED: Use file-saver instead
+
 FileSaver.js
 ============
 
